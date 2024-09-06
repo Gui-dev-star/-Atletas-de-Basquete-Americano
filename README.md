@@ -1,4 +1,4 @@
-###  Sobre o Projeto
+###  Sobre o Projeto - Imersão Dev com Google Gemini
 
 **Que tal uma busca rápida e fácil pelos seus atletas favoritos?** 
 
